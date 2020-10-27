@@ -1,0 +1,12 @@
+,ID,Bl,Y,O,Br
+Cam 1A,1,true,true,false,true
+Cam 1B,2,true,true,false,true
+Cam 5,3,true,false,false,false
+Cam 1C,4,false,false,true,false
+Cam 3,5,true,false,false,false
+Cam 2A,6,true,false,false,false
+Cam 2B,7,true,false,false,false
+Cam 4A,8,false,true,false,true
+Cam 4B,9,false,true,false,true
+Cam 6,10,false,true,false,true
+Cam 7,11,false,true,false,true

@@ -1,0 +1,3 @@
+model_checkpoint_path: "BallCatcher-500025.ckpt"
+all_model_checkpoint_paths: "BallCatcher-499961.ckpt"
+all_model_checkpoint_paths: "BallCatcher-500025.ckpt"

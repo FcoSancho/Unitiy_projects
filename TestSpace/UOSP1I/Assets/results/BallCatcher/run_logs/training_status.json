@@ -1,0 +1,29 @@
+{
+    "BallCatcher": {
+        "checkpoints": [
+            {
+                "steps": 499961,
+                "file_path": "results\\BallCatcher\\BallCatcher\\BallCatcher-499961.nn",
+                "reward": -10.0,
+                "creation_time": 1603069581.6370971
+            },
+            {
+                "steps": 500025,
+                "file_path": "results\\BallCatcher\\BallCatcher\\BallCatcher-500025.nn",
+                "reward": -10.0,
+                "creation_time": 1603069584.9647553
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500025,
+            "file_path": "results\\BallCatcher\\BallCatcher.nn",
+            "reward": -10.0,
+            "creation_time": 1603069584.9647553
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.0",
+        "tensorflow_version": "2.3.1"
+    }
+}
